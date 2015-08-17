@@ -4,6 +4,16 @@
                 "name": "Newly Added",
                 "wallpaper": [{
                         "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFcFZuM0E1RGFZMTQ",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFQjVhZHpiV3NjWDg",
+                        "name": "Hipster 3"
+                    }, {
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFQk5QRXVKUmlFdzQ",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFMVV1TmJxemZ1LWs",
+                        "name": "Hipster 4"
+                    }, {
+                        "author": "Ankit Anand",
                         "url": "https://googledrive.com/host/0B1iXjlfkhRKFNzBlS3NuTC1rZkE",
                         "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFOW5HeVlMWGp1c1U",
                         "name": "BW-24"
@@ -77,16 +87,6 @@
                         "url": "https://googledrive.com/host/0B1iXjlfkhRKFejZlakFoNWtXVzQ",
                         "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFR3BjSWhmOWxiOGc",
                         "name": "Material-446"
-                    }, {
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFZjJHQnZDbEhLSEU",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFVDN6QnA1LWZNQ2c",
-                        "name": "Hipster 1"
-                    }, {
-                        "author": "Ankit Anand",
-                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFWGQtdGNUY2dsQnM",
-                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFckNaR2FGX3ZMM1E",
-                        "name": "Hipster 2"
                     }
                 ]
             }, {
@@ -1257,6 +1257,20 @@
                         "url": "https://googledrive.com/host/0B1iXjlfkhRKFU0lqOVlWSzlmWGM",
                         "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFWHRGUDFRMTNVZGM",
                         "name": "Gradients-117"
+                    }
+                ]
+            }, {
+                "name": "Hipster",
+                "wallpaper": [{
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFZjJHQnZDbEhLSEU",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFVDN6QnA1LWZNQ2c",
+                        "name": "Hipster 1"
+                    }, {
+                        "author": "Ankit Anand",
+                        "url": "https://googledrive.com/host/0B1iXjlfkhRKFWGQtdGNUY2dsQnM",
+                        "thumbUrl": "https://googledrive.com/host/0B1iXjlfkhRKFckNaR2FGX3ZMM1E",
+                        "name": "Hipster 2"
                     }
                 ]
             }, {
